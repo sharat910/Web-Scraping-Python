@@ -1,0 +1,2 @@
+This file retrieves the images(Movie Posters) from Yify website and saves the in the current directory
+and names them appropriately.
